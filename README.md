@@ -1,4 +1,4 @@
-# STC_TE_SEM1
+# LP_II_Lab_Project
 This repository contains implementation of my seminar research paper
 
 ## Output of approach 1 - 
